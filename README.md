@@ -10,7 +10,7 @@ The Repo contains
 
 Script merges test and train data assigns column names to variables and extracts only mean and standard deviation columns from the raw data and writes out tidy dataset called TidtDataset1.txt .
 
-It also takes mean of all variables based on subject and activity and produces TidtDataset12.txt
+It also takes mean of all variables based on subject and activity and produces TidtDataset2.txt
 
 Above tidy datasets can be used for further analysis.
 
