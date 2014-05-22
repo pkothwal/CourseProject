@@ -97,7 +97,7 @@ colnames(aggdata)[1] <- c("Activity")
 colnames(aggdata)[2] <- c("Subject")
 
 
-## Write to file TidyDataset1.txt
+## Write to file TidyDataset2.txt
 
 write.table(aggdata,file="./data/projdata/UCI_HAR_Dataset/TidtDataset2.txt")
 
